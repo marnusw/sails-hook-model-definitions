@@ -1,0 +1,27 @@
+{
+  "name": "sails-hook-model-definitions",
+  "version": "0.1.0",
+  "description": "Reads model definitions via the Sails.js module loader and persists them on the hook",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marnusw/sails-hook-model-definitions.git"
+  },
+  "scripts": {
+  },
+  "dependencies": {
+    "lodash": "^3.1.0"
+  },
+  "devDependencies": {
+  },
+  "sails": {
+    "isHook": true
+  },
+  "author": "Marnus Weststrate <marnusw@gmail.com>",
+  "contributors": [],
+  "keywords": [
+    "sails",
+    "modelDefs"
+  ],
+  "license": "MIT"
+}
