@@ -1,6 +1,6 @@
 {
   "name": "sails-hook-model-definitions",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Reads model definitions via the Sails.js module loader and persists them on the hook",
   "main": "index.js",
   "repository": {
